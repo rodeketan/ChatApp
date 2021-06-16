@@ -1,6 +1,5 @@
 # #Slack Chat App
-
-This is the 'slack' type chat application made using SocketIO. In this a user has to login with a username. He/she will be remembered by this name. After logging in user can join into an already created channel by selecting from channels list or can create a new one. User can now chat with others in that channel.
+It is a real time online messaging service similar to 'slack' based on Flask-SocketIO with features including private as well as group messaging. A user will be remembered by his unique username. After logging in, user can join into an already created channel by selecting from channels list or can create a new one. User can now chat with others in that channel. 
 ## Login Page
 ![alt text](https://github.com/rodeketan/chat_app/blob/main/Images/Screenshot%20from%202021-06-16%2004-17-58.png)
 ## Chat Window
